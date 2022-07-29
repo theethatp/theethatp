@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @theethatp.
-- 🌱 I’m currently doing master's thesis in mathematical optimization dealing with transportation system problem.
+- 🌱 I’m currently doing master's thesis in combinatorial optimization dealing with transportation system problem.
